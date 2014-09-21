@@ -7,9 +7,9 @@ An IEEE UIUC 24-Hour Hackathon project. Flick is a mobile application that lets 
 * Backend: Firebase
 
 ##IEEE Hackathon Team ADA
-* Arpit Kahnuja
-* Devin Ho
-* Andy Vuong
+* Arpit Kahnuja (Mobile/Design)
+* Devin Ho (Web/Backend)
+* Andy Vuong (Mobile/Backend)
 
 
 
